@@ -1,5 +1,5 @@
 
-Table	Column Name	Description	
+Table	Column Name
 Complaints (Fact)	Complaint ID	Unique identifier for each complaint.	
 Complaints (Fact)	Submitted via	Submission channel used by the consumer (e.g., Web, Referral).	
 Complaints (Fact)	Date submitted	Date the consumer submitted the complaint.	
